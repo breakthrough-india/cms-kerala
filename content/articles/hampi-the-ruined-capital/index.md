@@ -16,7 +16,7 @@ image: https://picsum.photos/id/125/1920/1280.webp
 show_in_slider: true
 states:
   - karnataka
-featureinhomepage: true
+featureinhomepage: false
 toc: true
 comments: true
 priority: primary
