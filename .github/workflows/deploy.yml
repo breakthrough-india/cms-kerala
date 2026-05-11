@@ -3,6 +3,8 @@ name: Deploy admin to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - 'static/**'
 
 permissions:
   contents: read
