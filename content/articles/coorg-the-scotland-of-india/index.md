@@ -1,5 +1,5 @@
 ---
-title: "Coorg: The Scotland of India"
+title: 'Coorg: The Coffee Kingdom'
 date: 2026-05-04T10:00:00+05:30
 lastmod: 2026-05-04T10:00:00+05:30
 draft: false
@@ -14,14 +14,14 @@ tags:
   - karnataka
   - travel
 image: https://images.unsplash.com/photo-1586500036706-41963de24d8b?w=1200&fm=webp&q=80
-image_caption: "Sunrise over a coffee plantation in Coorg, Kodagu district, Karnataka."
 show_in_slider: false
 states:
   - karnataka
 featureinhomepage: false
-priority: secondary
 toc: true
 comments: true
+priority: secondary
+image_caption: Sunrise over a coffee plantation in Coorg, Kodagu district, Karnataka.
 ---
 
 ## Where the Coffee Comes From
