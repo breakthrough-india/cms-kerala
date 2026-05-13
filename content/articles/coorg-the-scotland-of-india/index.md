@@ -1,5 +1,5 @@
 ---
-title: 'Coorg: The Coffee Kingdom'
+title: 'Coorg: The Coffee Kingdom 2'
 date: 2026-05-04T10:00:00+05:30
 lastmod: 2026-05-04T10:00:00+05:30
 draft: false
