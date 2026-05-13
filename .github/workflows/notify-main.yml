@@ -12,5 +12,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.MAIN_REPO_PAT }}
-          repository: anand-raj/cms-theme2
+          repository: breakthrough-india/cms
           event-type: state-content-updated
