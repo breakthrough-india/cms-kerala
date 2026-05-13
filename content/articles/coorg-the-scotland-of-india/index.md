@@ -1,5 +1,5 @@
 ---
-title: 'Coorg: The Coffee Kingdom 2'
+title: 'Coorg: The Coffee Kingdom'
 date: 2026-05-04T10:00:00+05:30
 lastmod: 2026-05-04T10:00:00+05:30
 draft: false
@@ -20,8 +20,8 @@ states:
 featureinhomepage: true
 toc: true
 comments: true
-image_caption: Sunrise over a coffee plantation in Coorg, Kodagu district, Karnataka.
 priority: secondary
+image_caption: Sunrise over a coffee plantation in Coorg, Kodagu district, Karnataka.
 ---
 
 ## Where the Coffee Comes From
@@ -41,7 +41,3 @@ Kodava homes, called "ainmane" (ancestral homes), are built around a central cou
 The **Abbey Falls** near Madikeri tumble 70 metres through a jungle gorge and are most dramatic after the monsoon. The **Raja's Seat** in Madikeri, a hilltop garden with a toy-train ride and sweeping valley views, is a favourite sunset spot. For the adventurous, the **Brahmagiri Trek** leads through shola forests to a peak bordering the Nagarhole National Park, where elephant sightings are not uncommon.
 
 The **Namdroling Monastery** at Bylakuppe — the largest Tibetan settlement in India outside Tibet — is a short drive from Coorg and houses the stunning Golden Temple, a three-storey golden structure of remarkable intricacy.
-
-## When to Visit
-
-The ideal windows are October to February for clear skies and cool air, and June to August if you enjoy the dramatic monsoon, when the waterfalls are at full thunder and the hills turn an impossible green. The shoulder months of March and April can be warm but bring the reward of coffee blossoms. Madikeri, the district headquarters, is a comfortable base, with the town's cosy restaurants serving Kodava staples like pandi curry (pork) and akki rotti (rice bread).
