@@ -2,7 +2,7 @@
 title: Test article from Karnataka
 date: 2026-05-14T03:01:00+05:30
 lastmod: 2026-05-14T03:01:00+05:30
-draft: true
+draft: false
 description: ''
 author: Admin
 categories:
