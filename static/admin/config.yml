@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: breakthrough-india/cms-karnataka
+  repo: breakthrough-india/cms-kerala
   branch: main
   base_url: https://cms-auth.breakthrough-science-society.workers.dev
 
 media_folder: content/articles
 public_folder: /articles
 
-site_url: https://breakthrough-india.github.io/cms/states/karnataka/
+site_url: https://breakthrough-india.github.io/cms/states/kerala/
 
 collections:
   - name: articles
@@ -77,9 +77,9 @@ collections:
         widget: select
         multiple: true
         required: false
-        default: ["karnataka"]
+        default: ["kerala"]
         options:
-          - { label: "Karnataka", value: "karnataka" }
+          - { label: "kerala", value: "kerala" }
 
       - label: Feature in Home Page
         name: featureinhomepage
@@ -168,9 +168,9 @@ collections:
         widget: select
         multiple: true
         required: false
-        default: ["karnataka"]
+        default: ["kerala"]
         options:
-          - { label: "Karnataka", value: "karnataka" }
+          - { label: "Kerala", value: "kerala" }
 
       - label: Feature in Home Page
         name: featureinhomepage
@@ -236,7 +236,7 @@ collections:
         name: event_location
         widget: string
         required: false
-        hint: "e.g. Cubbon Park, Bengaluru, Karnataka"
+        hint: "e.g. Cubbon Park, Cochin, Kerala"
 
       - label: Registration URL
         name: registration_url
@@ -268,9 +268,9 @@ collections:
         widget: select
         multiple: true
         required: false
-        default: ["karnataka"]
+        default: ["kerala"]
         options:
-          - { label: "Karnataka", value: "karnataka" }
+          - { label: "Kerala", value: "kerala" }
 
       - label: Feature in Home Page
         name: featureinhomepage

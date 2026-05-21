@@ -10,6 +10,6 @@ tags: []
 image: ""
 show_in_slider: false
 states:
-  - karnataka
+  - kerala
 featureinhomepage: false
 ---

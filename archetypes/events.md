@@ -13,6 +13,6 @@ event_end_date: {{ .Date }}
 event_location: ""
 registration_url: ""
 states:
-  - karnataka
+  - kerala
 featureinhomepage: false
 ---
