@@ -8,7 +8,7 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger cms-theme2 rebuild
+      - name: Trigger cms rebuild
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.MAIN_REPO_PAT }}
