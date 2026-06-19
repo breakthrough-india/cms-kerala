@@ -14,14 +14,21 @@ collections:
     label: Articles
     folder: content/articles
     create: true
-    path: "{{slug}}/index"
+    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}/index"
     media_folder: images
     public_folder: images
-    preview_path: articles/{{slug}}/
+    preview_path: articles/{{fields.slug}}/
     fields:
       - label: Title
         name: title
         widget: string
+
+      - label: URL Slug
+        name: slug
+        widget: string
+        hint: "Use lowercase English letters, numbers, and hyphens only, up to 80 characters."
+        pattern: ['^(?=.{1,80}$)[a-z0-9]+(?:-[a-z0-9]+)*$', "Use 1-80 lowercase English letters, numbers, and hyphens; do not start or end with a hyphen."]
 
       - label: Publish Date
         name: date
@@ -105,14 +112,21 @@ collections:
     label: News
     folder: content/news
     create: true
-    path: "{{slug}}/index"
+    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}/index"
     media_folder: images
     public_folder: images
-    preview_path: news/{{slug}}/
+    preview_path: news/{{fields.slug}}/
     fields:
       - label: Title
         name: title
         widget: string
+
+      - label: URL Slug
+        name: slug
+        widget: string
+        hint: "Use lowercase English letters, numbers, and hyphens only, up to 80 characters."
+        pattern: ['^(?=.{1,80}$)[a-z0-9]+(?:-[a-z0-9]+)*$', "Use 1-80 lowercase English letters, numbers, and hyphens; do not start or end with a hyphen."]
 
       - label: Publish Date
         name: date
@@ -186,14 +200,21 @@ collections:
     label: Events
     folder: content/events
     create: true
-    path: "{{slug}}/index"
+    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}/index"
     media_folder: images
     public_folder: images
-    preview_path: events/{{slug}}/
+    preview_path: events/{{fields.slug}}/
     fields:
       - label: Title
         name: title
         widget: string
+
+      - label: URL Slug
+        name: slug
+        widget: string
+        hint: "Use lowercase English letters, numbers, and hyphens only, up to 80 characters."
+        pattern: ['^(?=.{1,80}$)[a-z0-9]+(?:-[a-z0-9]+)*$', "Use 1-80 lowercase English letters, numbers, and hyphens; do not start or end with a hyphen."]
 
       - label: Publish Date
         name: date
