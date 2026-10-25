@@ -10,7 +10,7 @@ categories:
   - Tech
 tags: []
 image: https://breakthrough-india.github.io/cms/articles/…s%20of%20Dead%20Stars%20-%20Public%20Lecture.jpeg
-show_in_slider: false
+show_in_slider: true
 states:
   - kerala
 featureinhomepage: false
