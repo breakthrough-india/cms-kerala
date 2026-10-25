@@ -15,7 +15,7 @@ states:
   - kerala
 featureinhomepage: true
 toc: true
-comments: true
+comments: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod egestas lectus, in pretium ligula commodo a. Aliquam vitae turpis commodo magna euismod auctor. Suspendisse sit amet rutrum risus. Vestibulum vitae nunc nibh. Vestibulum mollis finibus ultrices. Ut felis mi, volutpat non venenatis id, auctor at leo. Mauris ac tincidunt nulla, eget tempor felis. Ut magna eros, ullamcorper sed risus nec, scelerisque venenatis purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut accumsan leo, at dignissim lectus. Integer vehicula enim sed leo viverra semper. Praesent placerat mi nec maximus placerat. Nunc lacus nisi, blandit eu imperdiet sed, venenatis in arcu. Nullam id dui pellentesque, egestas dui vitae, fringilla urna.
