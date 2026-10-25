@@ -3,7 +3,7 @@ title: New Artcile
 slug: kerala-test
 date: 2026-10-25T18:00:00+05:30
 lastmod: 2026-10-25T18:00:00+05:30
-draft: true
+draft: false
 description: Test new
 author: Admin
 categories:
