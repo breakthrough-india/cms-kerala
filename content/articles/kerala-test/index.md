@@ -13,7 +13,7 @@ image: https://breakthrough-india.github.io/cms/articles/…s%20of%20Dead%20Star
 show_in_slider: true
 states:
   - kerala
-featureinhomepage: false
+featureinhomepage: true
 toc: true
 comments: true
 ---
